@@ -19,6 +19,7 @@ public class followContorl {
 
 
  /*
+
         switch (i) {
             case 120:
                 i = 130;
