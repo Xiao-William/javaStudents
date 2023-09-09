@@ -14,6 +14,8 @@ public class followContorl {
                 switch ()
         */
 
+
+
  /*
         switch (i) {
             case 120:
